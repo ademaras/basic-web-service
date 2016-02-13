@@ -1,0 +1,10 @@
+## Emarka adem@emarka.com.tr
+# Ignore the my files.
+
+.DS_Store
+**/.DS_Store
+*/.DS_Store
+.DS_Store?
+
+b.sublime-project
+b.sublime-workspace
